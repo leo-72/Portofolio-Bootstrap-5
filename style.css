@@ -1,0 +1,37 @@
+.navbar {
+  background-color: #ff8000;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ffcc99;
+}
+
+section {
+  padding-top: 6rem;
+}
+
+#my_projects {
+  background-color: #ffcc99;
+}
+
+.row img {
+  width: 100%; /* You can set the dimensions to whatever you want */
+  height: 250px;
+  object-fit: fill;
+}
+
+.card {
+  width: 100%;
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+}
+
+footer {
+  color: white;
+  background-color: #ff8000;
+}
+
+footer > a {
+  font-weight: bold;
+}
